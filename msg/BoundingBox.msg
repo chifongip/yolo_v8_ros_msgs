@@ -1,6 +1,9 @@
 string object_class
-float64 probability
+float64 confidence
 int64 xmin
 int64 ymin
 int64 xmax
 int64 ymax
+float64 x
+float64 y
+float64 z 
