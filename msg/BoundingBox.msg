@@ -1,5 +1,6 @@
 string object_class
 float64 confidence
+int64 id
 int64 xmin
 int64 ymin
 int64 xmax
